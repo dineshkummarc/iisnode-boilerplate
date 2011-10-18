@@ -21,3 +21,13 @@ Coletando os arquivos e organizando a estrutura de pastas
 Como usar
 ---------
 Basta clicar no botão ZIP deste repositório e salvar na pasta da sua aplicação.
+
+
+Licença
+-------
+MIT
+
+
+Créditos
+--------
+Sidney Lima Filho
